@@ -1,6 +1,6 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Baby, Users, Trophy, Star, Clock, Heart } from "lucide-react"
+import { Baby, Users, Trophy } from "lucide-react"
 
 export function ServicesSection() {
   const services = [
@@ -64,7 +64,7 @@ export function ServicesSection() {
             </span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            From beginner to advanced, we offer comprehensive gymnastics programs designed to meet every athlete's needs
+            From beginner to advanced, we offer comprehensive gymnastics programs designed to meet every athletes needs
             and goals.
           </p>
         </div>

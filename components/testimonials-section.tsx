@@ -68,7 +68,7 @@ export function TestimonialsSection() {
             </span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Don't just take our word for it. Here's what our gymnastics families have to say about their experience at
+            Do not just take our word for it. Here is what our gymnastics families have to say about their experience at
             Islands YMCA Gymnastics.
           </p>
         </div>
@@ -79,7 +79,7 @@ export function TestimonialsSection() {
             <CardContent className="p-8 md:p-12 text-center">
               <Quote className="h-12 w-12 text-purple-500 mx-auto mb-6" />
               <blockquote className="text-xl md:text-2xl text-gray-700 mb-8 leading-relaxed">
-                "{testimonials[currentTestimonial].content}"
+                {testimonials[currentTestimonial].content}
               </blockquote>
 
               <div className="flex items-center justify-center mb-6">
@@ -152,7 +152,7 @@ export function TestimonialsSection() {
                   ))}
                 </div>
                 <blockquote className="text-gray-700 mb-4 italic">
-                  "{testimonial.content.substring(0, 120)}..."
+                  {testimonial.content.substring(0, 120)}...
                 </blockquote>
                 <div className="flex items-center">
                 {(() => {

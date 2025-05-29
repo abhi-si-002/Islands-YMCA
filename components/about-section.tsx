@@ -11,7 +11,7 @@ export function AboutSection() {
             </span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            At Islands YMCA Gymnastics, we're dedicated to fostering physical fitness, mental strength, and character
+            At Islands YMCA Gymnastics, we are dedicated to fostering physical fitness, mental strength, and character
             development through the art of gymnastics.
           </p>
         </div>
@@ -31,7 +31,7 @@ export function AboutSection() {
               where gymnasts of all ages and skill levels can learn, grow, and achieve their dreams.
             </p>
             <p className="text-lg text-gray-600 mb-8">
-              We believe that gymnastics is more than just physical activity – it's about building confidence,
+              We believe that gymnastics is more than just physical activity – it is about building confidence,
               discipline, and lifelong friendships. Our experienced coaches are committed to helping each student reach
               their full potential.
             </p>
